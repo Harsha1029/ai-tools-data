@@ -1,0 +1,30 @@
+[
+  {
+    "name": "ChatGPT",
+    "category": "Writing",
+    "description": "AI chatbot that helps with everything.",
+    "url": "https://chat.openai.com/",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg"
+  },
+  {
+    "name": "Midjourney",
+    "category": "Image",
+    "description": "Generate beautiful AI art using text prompts.",
+    "url": "https://www.midjourney.com/",
+    "logo": "https://cdn.worldvectorlogo.com/logos/midjourney.svg"
+  },
+  {
+    "name": "Runway ML",
+    "category": "Video",
+    "description": "AI video editing and generation platform.",
+    "url": "https://runwayml.com/",
+    "logo": "https://runwayml.com/favicon.ico"
+  },
+  {
+    "name": "ElevenLabs",
+    "category": "Voice",
+    "description": "AI voice generator and text-to-speech tool.",
+    "url": "https://elevenlabs.io/",
+    "logo": "https://elevenlabs.io/favicon.ico"
+  }
+]
